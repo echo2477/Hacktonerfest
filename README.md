@@ -1,6 +1,6 @@
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=echo2477)](https://git.io/streak-stats)
+
 
 ![Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
